@@ -1,3 +1,7 @@
+We created an RPG game for the final project of our Object-Oriented Programming course in Java. We received the highest grade of all the projects. 
+Here are the following requirements we were asked to meet: 
+
+
 # Role Playing Game
 
 For the final project of Object Oriented Programming, your team should create an RPG game. While there are some requirements to the outcome, which are listed below, you are mostly free in how you give shape to this project. For example, you may choose to have your RPG reflect an epic quest in a fantasy setting, an anxious protagonist buying groceries from a list, or fireside conversations among friends camping in the wild.
